@@ -1,1 +1,1 @@
-Worker:node coco.js
+Worker: node bot.js
