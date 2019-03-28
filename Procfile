@@ -1,1 +1,1 @@
-worker: node coco.js
+Worker:node coco.js
